@@ -1,0 +1,20 @@
+.env
+venv/
+chroma.sqlite3
+6016fa83-5c29-41fa-87fa-412b1ab71033
+# Ignore specific files and directories
+6016fa83-5c29-41fa-87fa-412b1ab71033/
+*.bin
+
+__pycache__/
+chromadb/
+chat_logs/
+chroma.log
+pdf_store/
+
+pyc
+*.pyo
+*.pyd
+
+*.sqlite3
+*.log
