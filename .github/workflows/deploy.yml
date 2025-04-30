@@ -43,4 +43,4 @@ jobs:
           --name CustomScript \
           --force-update \
           --publisher Microsoft.Azure.Extensions \
-          --settings '{"commandToExecute": "/home/azureuser/my-python-app/update_app.sh"}'
+          --settings '{"commandToExecute": "/home/azureuser/TerraformProject//update_app.sh"}'
